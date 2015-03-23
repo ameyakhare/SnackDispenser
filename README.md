@@ -30,3 +30,6 @@ DispenserSnack - a single dispenser snack with stock, image, and name
 SnacksManager - manages each dispenser snack throughout the app, including save and reload
 HistoryItem - a single item that shows up in the history view, contains a DispenserSnack and NSDate
 HistoryManager - manages each history item throughout the app, including save and reload
+
+
+Created by Ameya Khare, March 2015
