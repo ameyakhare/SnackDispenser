@@ -266,7 +266,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9D32601F1ABDE390009D3FFD /* Build configuration list for PBXProject "Snack Dispenser" */;
+			buildConfigurationList = 9D32601F1ABDE390009D3FFD /* Build configuration list for PBXProject "SnackDispenser" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -516,7 +516,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9D32601F1ABDE390009D3FFD /* Build configuration list for PBXProject "Snack Dispenser" */ = {
+		9D32601F1ABDE390009D3FFD /* Build configuration list for PBXProject "SnackDispenser" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9D3260411ABDE390009D3FFD /* Debug */,
