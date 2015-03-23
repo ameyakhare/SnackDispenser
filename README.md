@@ -4,6 +4,7 @@ SnackDispenser is a simple app that emulates a random snack dispenser.
 
 Potentially useful custom implementations to use in your own app:
     Infinite Picker View in DispenserViewController
+    
     Picker View with image and label in DispenserViewController
 
 
