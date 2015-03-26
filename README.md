@@ -1,3 +1,8 @@
+THIS APP IS NOT IN WORKING STATE
+
+
+
+
 # SnackDispenser
 SnackDispenser is a simple app that emulates a random snack dispenser.
 
